@@ -2,9 +2,9 @@
 name = "pythonproject3"
 version = "0.1.0"
 description = ""
-authors = [
-    {name = "Murad-Garaev",email = "myrik48@gmail.com"}
-]
+authors = ["Your Name <myrik48@gmail.com>"]
+
+
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [

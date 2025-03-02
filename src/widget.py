@@ -7,7 +7,7 @@ import datetime
 
 
 def mask_account_card(type_and_number: Union[str]) -> Union[str]:
-    '''функция, которая умеет обрабатывать информацию как о картах, так и о счетах.'''
+    '''функция, которая обрабатывает информацию как о картах, так и о счетах.'''
 
     text_result = ""
     digit_result = ""
